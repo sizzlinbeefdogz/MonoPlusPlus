@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="hoarding"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/farzam/Documents/CLion/hoarding/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/farzam/Documents/CLion/hoarding/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/farzam/Documents/CLion/hoarding/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="First_HW">
+				<Option output="/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/First_HW" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/farzam/Documents/CLion/hoarding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/Makefile&quot;  VERBOSE=1 First_HW"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="First_HW/fast">
+				<Option output="/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/First_HW" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/farzam/Documents/CLion/hoarding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/Makefile&quot;  VERBOSE=1 First_HW/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/farzam/Documents/CLion/hoarding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/farzam/Documents/CLion/hoarding/board.cpp">
+			<Option target="First_HW"/>
+		</Unit>
+		<Unit filename="/Users/farzam/Documents/CLion/hoarding/board.h">
+			<Option target="First_HW"/>
+		</Unit>
+		<Unit filename="/Users/farzam/Documents/CLion/hoarding/dice.cpp">
+			<Option target="First_HW"/>
+		</Unit>
+		<Unit filename="/Users/farzam/Documents/CLion/hoarding/dice.h">
+			<Option target="First_HW"/>
+		</Unit>
+		<Unit filename="/Users/farzam/Documents/CLion/hoarding/game.cpp">
+			<Option target="First_HW"/>
+		</Unit>
+		<Unit filename="/Users/farzam/Documents/CLion/hoarding/game.h">
+			<Option target="First_HW"/>
+		</Unit>
+		<Unit filename="/Users/farzam/Documents/CLion/hoarding/game_state.cpp">
+			<Option target="First_HW"/>
+		</Unit>
+		<Unit filename="/Users/farzam/Documents/CLion/hoarding/game_state.h">
+			<Option target="First_HW"/>
+		</Unit>
+		<Unit filename="/Users/farzam/Documents/CLion/hoarding/main.cpp">
+			<Option target="First_HW"/>
+		</Unit>
+		<Unit filename="/Users/farzam/Documents/CLion/hoarding/move.cpp">
+			<Option target="First_HW"/>
+		</Unit>
+		<Unit filename="/Users/farzam/Documents/CLion/hoarding/move.h">
+			<Option target="First_HW"/>
+		</Unit>
+		<Unit filename="/Users/farzam/Documents/CLion/hoarding/player.cpp">
+			<Option target="First_HW"/>
+		</Unit>
+		<Unit filename="/Users/farzam/Documents/CLion/hoarding/player.h">
+			<Option target="First_HW"/>
+		</Unit>
+		<Unit filename="/Users/farzam/Documents/CLion/hoarding/property.cpp">
+			<Option target="First_HW"/>
+		</Unit>
+		<Unit filename="/Users/farzam/Documents/CLion/hoarding/property.h">
+			<Option target="First_HW"/>
+		</Unit>
+		<Unit filename="/Users/farzam/Documents/CLion/hoarding/random.cpp">
+			<Option target="First_HW"/>
+		</Unit>
+		<Unit filename="/Users/farzam/Documents/CLion/hoarding/random.h">
+			<Option target="First_HW"/>
+		</Unit>
+		<Unit filename="/Users/farzam/Documents/CLion/hoarding/rule.cpp">
+			<Option target="First_HW"/>
+		</Unit>
+		<Unit filename="/Users/farzam/Documents/CLion/hoarding/rule.h">
+			<Option target="First_HW"/>
+		</Unit>
+		<Unit filename="/Users/farzam/Documents/CLion/hoarding/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
